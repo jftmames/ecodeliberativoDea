@@ -1,5 +1,5 @@
-pandas
-numpy
 streamlit
-pyDEA @ git+https://github.com/mariohsouto/pyDEA.git
+pandas
 pdfkit
+matplotlib
+scikit-learn
